@@ -1,3 +1,0 @@
-C:/Users/tobia/Documents/open62541/cmake-build-debug/CMakeFiles/myServer.dir
-C:/Users/tobia/Documents/open62541/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/tobia/Documents/open62541/cmake-build-debug/CMakeFiles/rebuild_cache.dir
